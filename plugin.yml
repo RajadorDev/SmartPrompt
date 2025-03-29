@@ -1,0 +1,9 @@
+---
+name: SmartPrompt
+version: 1.0.0 Beta
+api: 2.0.0
+author: Rajador
+discord: rajadortv
+description: 'This is not a plugin, this is a library for PocketMine 2.0.0 (which does not support pocketmine 5 virions)'
+main: SmartPrompt\Plugin
+...
